@@ -80,7 +80,7 @@ npm run compile
 ```bash
 npm run deploy
 ```
->> Save your Swisstronik contract deployed to 0x...
+- Save your Swisstronik contract deployed to 0x...
 
 ### 7. Get Message
 
@@ -93,7 +93,7 @@ npm run get-message
 ```bash
 npm run set-message
 ```
->> Save your hash: '0x...........'
+- Save your hash: '0x...........'
 
 ### 9. Finsihed
 
