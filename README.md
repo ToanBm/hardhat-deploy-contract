@@ -1,21 +1,11 @@
-# Swisstronik Tesnet Techinal Task 1
-
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
+# Deploy a simple contract using Hardhat
 
 ## Steps
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/ToanBm/hardhat-deploy-contract.git
 ```
 
 ```
@@ -30,10 +20,12 @@ npm install
 
 ### 3. Set .env File
 
-create .env file in root project
+```bash
+nano .env
+```
 
 ```bash
-PRIVATE_KEY="your private key"
+PRIVATE_KEY="your-private-key"
 ```
 
 ### 4. Create Smart Contract
@@ -88,6 +80,7 @@ npm run compile
 ```bash
 npm run deploy
 ```
+>> Save your Swisstronik contract deployed to 0x...
 
 ### 7. Get Message
 
@@ -100,6 +93,7 @@ npm run get-message
 ```bash
 npm run set-message
 ```
+>> Save your hash: '0x...........'
 
 ### 9. Finsihed
 
@@ -107,9 +101,5 @@ npm run set-message
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
 
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
+
