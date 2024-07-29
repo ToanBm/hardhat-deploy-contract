@@ -81,5 +81,5 @@ git branch -M main
 git push -u origin main
 ```
 
-### Thank you!
+### Thanks for the guidance of: [Mnuralim](https://github.com/Mnuralim)
 
