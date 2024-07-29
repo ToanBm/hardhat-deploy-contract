@@ -56,7 +56,7 @@ npm run get-message
 ```bash
 npm run set-message
 ```
-- Save your hash: '0x...........'
+- Save your hash: '0x...'
 
 ### 9. Finsihed
 
@@ -64,5 +64,22 @@ npm run set-message
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
+ #how to push ? 
+```bash
+git init
+```
+```bash
+git add .
+```
+```bash
+git remote set-url origin https://<your-github-username>:<your-personal-access-tokens>@github.com/<your-github-username>/<your-repo-folder-name>.git
+```
+```bash
+git branch -M main
+```
+```bash
+git push -u origin main
+```
 
+### Thank you!
 
